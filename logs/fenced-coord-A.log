@@ -1,0 +1,10 @@
+2026-10-27T21:57:01.968+00:00 coord-A CANDIDATE path=/coordinators/coord-A-0000000004
+2026-10-27T21:57:01.976+00:00 coord-A BECAME_LEADER epoch=5 path=/coordinators/coord-A-0000000004
+2026-10-27T21:57:03.792+00:00 coord-A CHUNK_COMMITTED chunk=1/8 pairs=506
+2026-10-27T21:57:05.602+00:00 coord-A CHUNK_COMMITTED chunk=2/8 pairs=363
+Connection dropped: socket connection error: Connection reset by peer
+Transition to CONNECTING
+Session has expired
+2026-10-27T21:57:45.991+00:00 coord-A COMPUTE_COMPLETE pair_keys=1008 occurrences=2382 elapsed_sec=44.013
+2026-10-27T21:57:45.992+00:00 coord-A BadVersionError: request epoch=5, active_epoch=6
+2026-10-27T21:57:45.992+00:00 coord-A PROCESS_METRICS elapsed_sec=44.014 peak_rss_mb=23.59

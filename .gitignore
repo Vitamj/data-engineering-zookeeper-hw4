@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+logs/*.tmp
+results/runtime/
+logs/*.pid
+data/server-1/*
+data/server-2/*
+data/server-3/*
+!data/server-1/myid
+!data/server-2/myid
+!data/server-3/myid
+results/*/receiver.sqlite*
+report/page-*.png

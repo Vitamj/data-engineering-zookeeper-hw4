@@ -1,0 +1,7068 @@
+{
+  "active_epoch": 4,
+  "pointer_version": 2,
+  "payload": {
+    "pairs": [
+      {
+        "skills": [
+          "golang",
+          "postgresql"
+        ],
+        "count": 38
+      },
+      {
+        "skills": [
+          "go",
+          "golang"
+        ],
+        "count": 29
+      },
+      {
+        "skills": [
+          "golang",
+          "kubernetes"
+        ],
+        "count": 23
+      },
+      {
+        "skills": [
+          "golang",
+          "sql"
+        ],
+        "count": 23
+      },
+      {
+        "skills": [
+          "docker",
+          "golang"
+        ],
+        "count": 22
+      },
+      {
+        "skills": [
+          "docker",
+          "postgresql"
+        ],
+        "count": 21
+      },
+      {
+        "skills": [
+          "postgresql",
+          "sql"
+        ],
+        "count": 19
+      },
+      {
+        "skills": [
+          "git",
+          "golang"
+        ],
+        "count": 18
+      },
+      {
+        "skills": [
+          "golang",
+          "linux"
+        ],
+        "count": 18
+      },
+      {
+        "skills": [
+          "git",
+          "postgresql"
+        ],
+        "count": 17
+      },
+      {
+        "skills": [
+          "golang",
+          "rabbitmq"
+        ],
+        "count": 16
+      },
+      {
+        "skills": [
+          "go",
+          "postgresql"
+        ],
+        "count": 15
+      },
+      {
+        "skills": [
+          "golang",
+          "redis"
+        ],
+        "count": 15
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "postgresql"
+        ],
+        "count": 15
+      },
+      {
+        "skills": [
+          "docker",
+          "kubernetes"
+        ],
+        "count": 14
+      },
+      {
+        "skills": [
+          "postgresql",
+          "rabbitmq"
+        ],
+        "count": 14
+      },
+      {
+        "skills": [
+          "docker",
+          "git"
+        ],
+        "count": 13
+      },
+      {
+        "skills": [
+          "docker",
+          "sql"
+        ],
+        "count": 13
+      },
+      {
+        "skills": [
+          "go",
+          "linux"
+        ],
+        "count": 12
+      },
+      {
+        "skills": [
+          "golang",
+          "grpc"
+        ],
+        "count": 12
+      },
+      {
+        "skills": [
+          "postgresql",
+          "redis"
+        ],
+        "count": 12
+      },
+      {
+        "skills": [
+          "git",
+          "sql"
+        ],
+        "count": 11
+      },
+      {
+        "skills": [
+          "golang",
+          "kafka"
+        ],
+        "count": 11
+      },
+      {
+        "skills": [
+          "kafka",
+          "postgresql"
+        ],
+        "count": 11
+      },
+      {
+        "skills": [
+          "linux",
+          "postgresql"
+        ],
+        "count": 11
+      },
+      {
+        "skills": [
+          "docker",
+          "redis"
+        ],
+        "count": 10
+      },
+      {
+        "skills": [
+          "git",
+          "linux"
+        ],
+        "count": 10
+      },
+      {
+        "skills": [
+          "go",
+          "it"
+        ],
+        "count": 10
+      },
+      {
+        "skills": [
+          "golang",
+          "it"
+        ],
+        "count": 10
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "linux"
+        ],
+        "count": 10
+      },
+      {
+        "skills": [
+          "docker",
+          "linux"
+        ],
+        "count": 9
+      },
+      {
+        "skills": [
+          "go",
+          "sql"
+        ],
+        "count": 9
+      },
+      {
+        "skills": [
+          "golang",
+          "mongodb"
+        ],
+        "count": 9
+      },
+      {
+        "skills": [
+          "kafka",
+          "sql"
+        ],
+        "count": 9
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "redis"
+        ],
+        "count": 9
+      },
+      {
+        "skills": [
+          "docker",
+          "kafka"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "git",
+          "kubernetes"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "git",
+          "rabbitmq"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "go",
+          "kubernetes"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "golang",
+          "ооп"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "grpc",
+          "postgresql"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "it",
+          "postgresql"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "redis"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "sql"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "sql",
+          "ооп"
+        ],
+        "count": 8
+      },
+      {
+        "skills": [
+          "backend",
+          "golang"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "golang"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "docker",
+          "go"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "docker",
+          "grpc"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "docker",
+          "rabbitmq"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "git",
+          "kafka"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "git",
+          "ооп"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "go",
+          "kafka"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "grpc",
+          "mongodb"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "grpc",
+          "rabbitmq"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "kafka",
+          "redis"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "sql"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "linux",
+          "sql"
+        ],
+        "count": 7
+      },
+      {
+        "skills": [
+          "backend",
+          "postgresql"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "git",
+          "redis"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "grpc",
+          "kubernetes"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "grpc",
+          "redis"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "it",
+          "sql"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "kafka",
+          "rabbitmq"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "linux",
+          "rest"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "mongodb",
+          "postgresql"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "mongodb",
+          "rabbitmq"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "mongodb",
+          "redis"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "postgresql",
+          "ооп"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "redis",
+          "sql"
+        ],
+        "count": 6
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "golang"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "backend",
+          "go"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "docker",
+          "mongodb"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "docker",
+          "ооп"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "git",
+          "go"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "go",
+          "rabbitmq"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "go",
+          "rest"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "golang",
+          "mysql"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "golang",
+          "rest"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "golang",
+          "базы данных"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "graphql",
+          "postgresql"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "graphql",
+          "redis"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "it",
+          "разработка логистики"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "kafka",
+          "kubernetes"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "mongodb"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "rabbitmq"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "linux",
+          "rabbitmq"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "linux",
+          "redis"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "linux",
+          "ооп"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "php",
+          "postgresql"
+        ],
+        "count": 5
+      },
+      {
+        "skills": [
+          "backend",
+          "linux"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "golang"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "nosql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "redis"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "docker",
+          "graphql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "git",
+          "grpc"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "git",
+          "mongodb"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "go",
+          "mysql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "go",
+          "redis"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "go",
+          "разработка логистики"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "golang",
+          "graphql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "golang",
+          "nosql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "golang",
+          "php"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "golang",
+          "python"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "golang",
+          "rest api"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "graphql",
+          "kafka"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "grpc",
+          "linux"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "grpc",
+          "sql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "it",
+          "финансы"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "kafka",
+          "mongodb"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "kafka",
+          "ооп"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "linux",
+          "mongodb"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "mongodb",
+          "sql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "mongodb",
+          "ооп"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "php",
+          "rabbitmq"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "php",
+          "sql"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "postgresql",
+          "soap"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "postgresql",
+          "базы данных"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "postgresql",
+          "финансы"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "ооп"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "redis",
+          "ооп"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "sql",
+          "базы данных"
+        ],
+        "count": 4
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "postgresql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "backend",
+          "it"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "backend",
+          "финансы"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "go"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "docker"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "dry"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "flash mysql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "git"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "go"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "graphql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "grpc"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "kafka"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "kubernetes"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "linux"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "mongodb"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "postgresql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "rabbitmq"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "dry"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "flash mysql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "grafana"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "nats"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "php"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "prometheus"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker",
+          "базы данных"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "postgresql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "flash mysql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "git"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "golang"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "graphql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "grpc"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "kafka"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "kubernetes"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "linux"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "mongodb"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "postgresql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "rabbitmq"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "redis"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "dry",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "git"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "golang"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "graphql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "grpc"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "kafka"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "kubernetes"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "linux"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "mongodb"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "postgresql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "rabbitmq"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "redis"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "flash mysql",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "graphql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "rest api"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "git",
+          "базы данных"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "go",
+          "базы данных"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "go",
+          "финансы"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "grafana"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "nats"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "prometheus"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "unit testing"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "разработка логистики"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "торговая площадка"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "golang",
+          "финансы"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grafana",
+          "prometheus"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "grpc"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "kubernetes"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "linux"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "mongodb"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "rabbitmq"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "graphql",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "kafka"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "grpc",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "it",
+          "kafka"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "it",
+          "логистика"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kafka",
+          "kiss"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kafka",
+          "linux"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kafka",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kafka",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kafka",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kafka",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kafka",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "kubernetes"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "linux"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "mongodb"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "postgresql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "rabbitmq"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "redis"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kiss",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "nats"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "linux",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "linux",
+          "rest api"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "linux",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "linux",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "linux",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "linux",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "mongodb",
+          "nosql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "mongodb",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "mongodb",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "mongodb",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "mongodb",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "mysql",
+          "rest"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "postgresql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "rabbitmq"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "redis"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "nosql",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "php",
+          "redis"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "postgresql",
+          "rest"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "postgresql",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "postgresql",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "postgresql",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "postgresql",
+          "unit testing"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "redis",
+          "restapi"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "redis",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "redis",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "redis",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "restapi",
+          "s3"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "restapi",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "restapi",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "restapi",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "restapi",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "s3",
+          "soap"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "s3",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "s3",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "s3",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "soap",
+          "solid"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "soap",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "soap",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "solid",
+          "sql"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "solid",
+          "ооп"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "логистика",
+          "разработка логистики"
+        ],
+        "count": 3
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "docker"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "git"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "api",
+          "golang"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "backend",
+          "docker"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "backend",
+          "kubernetes"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "backend",
+          "rest api"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "backend",
+          "sql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "backend",
+          "разработка по"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "c/c++",
+          "golang"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "c/c++",
+          "linux"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "docker"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "openapi"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "mysql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "docker",
+          "it"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "docker",
+          "openstack"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "docker",
+          "unit testing"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "docker",
+          "web"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "golang"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "go"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "postgresql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "git",
+          "microservices"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "git",
+          "openstack"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "git",
+          "php"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "git",
+          "swagger"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "git",
+          "unit testing"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "git",
+          "web"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "gitlab",
+          "golang"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "gitlab",
+          "unit testing"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "golang"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "k8s"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "python"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "symfony"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "логистика"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "микросервисная архитектура"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "ооп"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "разработка по"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "go",
+          "торговая площадка"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "http"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "microservices"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "openapi"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "openstack"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "sqlalchemy"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "symfony"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "tcp/ip"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "web"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "логистика"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "микросервисная архитектура"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "golang",
+          "разработка по"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grafana",
+          "grpc"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grafana",
+          "kubernetes"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grafana",
+          "mongodb"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grafana",
+          "nats"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grafana",
+          "redis"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grpc",
+          "mysql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grpc",
+          "nats"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grpc",
+          "prometheus"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "grpc",
+          "rest"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "it",
+          "kubernetes"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "it",
+          "linux"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "it",
+          "базы данных"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "it",
+          "разработка по"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "it",
+          "торговая площадка"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "kafka",
+          "unit testing"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "kafka",
+          "базы данных"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "openstack"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "prometheus"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "tcp/ip"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "unit testing"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "базы данных"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "linux",
+          "openstack"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "linux",
+          "tcp/ip"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "linux",
+          "финансы"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "microservices",
+          "postgresql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "mongodb",
+          "mysql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "mongodb",
+          "nats"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "mongodb",
+          "prometheus"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "mongodb",
+          "rest"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "mysql",
+          "postgresql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "mysql",
+          "rabbitmq"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "nats",
+          "prometheus"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "nats",
+          "redis"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "openstack",
+          "postgresql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "python"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "rest api"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "swagger"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "symfony"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "web"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "микросервисная архитектура"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "разработка логистики"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "postgresql",
+          "разработка по"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "prometheus",
+          "redis"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "python",
+          "redis"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "python",
+          "sql"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "python",
+          "sqlalchemy"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "rest"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "symfony"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "rest api",
+          "swagger"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "sql",
+          "unit testing"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "sql",
+          "web"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "sql",
+          "разработка логистики"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "sql",
+          "финансы"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "web",
+          "базы данных"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "web",
+          "ооп"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "базы данных",
+          "ооп"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "разработка по",
+          "финансы"
+        ],
+        "count": 2
+      },
+      {
+        "skills": [
+          "agile",
+          "ci/cd"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "agile",
+          "code review"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "agile",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "agile",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "agile",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "docker"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "dpi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "gitlab ci"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "go-way"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "grpc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "anti-ddos",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "clickhouse"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "grpc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "http"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "it"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "nosql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "rabbitmq"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "английский язык"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "базы данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "apache kafka",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "api",
+          "backend"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "api",
+          "oracle pl/sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "api",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "api",
+          "автоматизация"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "api",
+          "математическая статистика"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "api",
+          "математическое моделирование"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "git"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "rabbitmq"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture framework",
+          "docker-compose"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture framework",
+          "gitlab ci"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture framework",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "architecture framework",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "atlassian jira",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "atlassian jira",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "atlassian jira",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "atlassian jira",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "atlassian jira",
+          "tcp/ip"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "fintech"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "git"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "mysql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "swagger"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "vuejs"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "автоматизация"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "математическая статистика"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "математическое моделирование"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "ооп"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "backend",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c++",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c++",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c++",
+          "it"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c++",
+          "java"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c++",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c++",
+          "разработка поисковых технологий"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "c++",
+          "с#"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "clickhouse"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "code review"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "docker-compose"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "elk"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "functional"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "gitflow"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "gitlab"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "grafana"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "nats"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ci/cd",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "http"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "clickhouse",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "cockroachdb",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "cockroachdb",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "cockroachdb",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "cockroachdb",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "code review",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "code review",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "code review",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "docker-compose"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "dpi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "elasticsearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "elk"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "functional"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "gitflow"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "gitlab"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "gitlab ci"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "gitlabci"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "go-way"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "k8s"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "leadership skills"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "lua"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "postgis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "swagger"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "symfony"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker",
+          "финансы"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "elk"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "functional"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "git"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "gitflow"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "gitlab"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "gitlab ci"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "grafana"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "swagger"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "docker-compose",
+          "рефакторинг кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "gitlab ci"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "go-way"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "grpc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "dpi",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "graphql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "k8s"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "leadership skills"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "rabbitmq"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "symfony"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elasticsearch",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "functional"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "gitflow"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "gitlab"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "grafana"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "elk",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "fintech",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "fintech",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "fintech",
+          "it"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "fintech",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "fintech",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "fintech",
+          "разработка по"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "fintech",
+          "финансы"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "flask",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "flask",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "flask",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "flask",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "flask",
+          "sqlalchemy"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "gitflow"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "gitlab"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "grafana"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "functional",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "gitlab"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "http"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "it"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "lua"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "postgis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "tcp/ip"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "unix"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "рефакторинг кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "git",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "gitlab"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "grafana"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitflow",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "grafana"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "http"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "go-way"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "grpc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlab ci",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlabci",
+          "go"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlabci",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlabci",
+          "grpc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlabci",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlabci",
+          "rabbitmq"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "gitlabci",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "graphql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "grpc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "java"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "leadership skills"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "lua"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "mongodb"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "nats"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "php"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "tcp/ip"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "unix"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "vuejs"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "внутренние сервисы"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "желание обучаться"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "ит"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "начало карьеры"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "разработка поисковых технологий"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "с#"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "golang"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "grpc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "linux"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "go-way",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "highload"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "java"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "k8s"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "lua"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "oracle pl/sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "pytest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "swagger"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "tcp"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "unix"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "vuejs"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "автоматизация"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "английский язык"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "ит"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "кafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "математическая статистика"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "математическое моделирование"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "работа с базами данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "разработка поисковых технологий"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "с#"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "golang",
+          "умение принимать решения"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "grps"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grafana",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "graphql",
+          "k8s"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "graphql",
+          "leadership skills"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "graphql",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "graphql",
+          "кafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "graphql",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grpc",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grpc",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grpc",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grpc",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grpc",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grpc",
+          "tcp"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "integration"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "grps",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "http",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "http",
+          "nosql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "http",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "http",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "http",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "integration",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "integration",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "integration",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "integration",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "integration",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "integration",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "integration",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "java"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "внутренние сервисы"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "разработка поисковых технологий"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "it",
+          "с#"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "java",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "java",
+          "разработка поисковых технологий"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "java",
+          "с#"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "kafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "kubernetes"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "leadership skills"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "базы данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "k8s",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "leadership skills"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "openapi"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "php"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "postgis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "unix"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "разработка логистики"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kafka",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "php"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "sqlalchemy"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "symfony"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "разработка по"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "kubernetes",
+          "финансы"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "leadership skills",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "leadership skills",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "leadership skills",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "leadership skills",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "microservices"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "mysql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "network testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "php"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "pytest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "sqlalchemy"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "swagger"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "vuejs"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "разработка по"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "linux",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "lua",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "lua",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "ms sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "rabbitmq"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "redis"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "базы данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "microservices",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mongodb",
+          "php"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mongodb",
+          "tcp"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ms sql",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ms sql",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ms sql",
+          "базы данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ms sql",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "tcp"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "vuejs"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "желание обучаться"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "начало карьеры"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "ооп"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "mysql",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "network testing",
+          "ngfw"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "network testing",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "network testing",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ngfw",
+          "oauth/oidc"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ngfw",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "nosql",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "oauth/oidc",
+          "ssl/tls"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "openapi",
+          "opensearch"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "openapi",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "openapi",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "openapi",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "openapi",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "opensearch",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "opensearch",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "opensearch",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "opensearch",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "php",
+          "rest"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "php",
+          "soap"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "php",
+          "symfony"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "php",
+          "zend framework"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "php",
+          "ооп"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgis",
+          "postgresql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgis",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgis",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "prometheus"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "tcp"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "zend framework"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "автоматизация"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "английский язык"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "кafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "математическая статистика"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "математическое моделирование"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "рефакторинг кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "postgresql",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "prometheus",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "prometheus",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "pytest",
+          "python"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "pytest",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "pytest",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "pytest",
+          "sqlalchemy"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "python",
+          "rabbitmq"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "python",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "python",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "python",
+          "разработка поисковых технологий"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "python",
+          "с#"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "tcp"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "unix"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "английский язык"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rabbitmq",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "redis",
+          "sqlalchemy"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "redis",
+          "teamleading"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "redis",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "redis",
+          "кafka"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "redis",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "redis",
+          "общение с людьми"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "rest api"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "soap"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "tcp"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "tcp/ip"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "vuejs"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "zend framework"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "ооп"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "sql"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "sqlalchemy"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "unit testing"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "vuejs"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "ооп"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "рефакторинг кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "rest api",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "soap",
+          "zend framework"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "sql",
+          "sqlalchemy"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "sql",
+          "symfony"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "sql",
+          "логистика"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "sql",
+          "работа с базами данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "sql",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "sql",
+          "умение принимать решения"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "swagger",
+          "микросервисная архитектура"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "swagger",
+          "рефакторинг кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "teamleading",
+          "алгоритмы и структуры данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "unit testing",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "vuejs",
+          "ооп"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "vuejs",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "vuejs",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "автоматизация",
+          "математическая статистика"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "автоматизация",
+          "математическое моделирование"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "базы данных",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "желание обучаться",
+          "начало карьеры"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ит",
+          "торговая площадка"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "математическая статистика",
+          "математическое моделирование"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "микросервисная архитектура",
+          "разработка по"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "микросервисная архитектура",
+          "рефакторинг кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "микросервисная архитектура",
+          "финансы"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ооп",
+          "оптимизация кода"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ооп",
+          "работа с базами данных"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ооп",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "ооп",
+          "умение принимать решения"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "оптимизация кода",
+          "удаленная работа"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "работа с базами данных",
+          "умение принимать решения"
+        ],
+        "count": 1
+      },
+      {
+        "skills": [
+          "разработка поисковых технологий",
+          "с#"
+        ],
+        "count": 1
+      }
+    ],
+    "pair_keys": 1008,
+    "occurrences": 2382,
+    "epoch": 3,
+    "worker": "coord-A"
+  }
+}

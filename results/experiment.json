@@ -1,0 +1,26 @@
+{
+  "student": "Вита-Виктория Гиалтсо-Мижа",
+  "group": "j3313",
+  "isu": "466703",
+  "zookeeper": "3.9.6",
+  "session_timeout_seconds": 10,
+  "dataset_rows": 124,
+  "hw3_pair_keys": 1008,
+  "hw3_pair_occurrences": 2382,
+  "runs": [
+    {
+      "mode": "unfenced",
+      "failover_seconds": 10.413,
+      "pointer_version": 2,
+      "active_epoch": 4,
+      "result_matches_hw3": true
+    },
+    {
+      "mode": "fenced",
+      "failover_seconds": 10.938,
+      "pointer_version": 1,
+      "active_epoch": 6,
+      "result_matches_hw3": true
+    }
+  ]
+}
